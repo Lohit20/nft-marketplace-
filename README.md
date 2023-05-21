@@ -22,7 +22,7 @@ Testing: Jest, React Testing Library
 ## Installation
 Clone the repository:
 
-git clone https://github.com/your-username/nft-marketplace.git
+git clone https://github.com/Lohit20/nft-marketplace.git
 
 Set up the database:
 Create a new MySQL database and import the database.sql file located in the database directory.
